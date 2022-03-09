@@ -9,9 +9,6 @@ The application multiplies a probability vector with a transition matrix multipl
 
 This subject of pseudo-random numbers is related to a philosophical discussion from the book entitled <i>Algorithms in Bioinformatics: Theory and Implementation</i>. Note that the construction and theory behind the chart of this application can be found [here](https://github.com/Gagniuc/World-smallest-js-chart-v1.0).
 
-Live demo:
-https://gagniuc.github.io/Predictions-with-Markov-Chains/
+Live demo: https://gagniuc.github.io/Predictions-with-Markov-Chains/
 
-![Screenshot](ScreenShot%20-%20Predictions%20with%20Markov%20Chains%20on%20an%20unlimited%20number%20of%20states.png)
-
-
+<kbd><img src="ScreenShot%20-%20Predictions%20with%20Markov%20Chains%20on%20an%20unlimited%20number%20of%20states.png" /></kbd>
